@@ -13,6 +13,8 @@ The Bagisto gift card extension proves invaluable for customers seeking to redee
 * **Integration Compatibility:** Seamlessly integrate with existing e-commerce platforms for smooth operation and enhanced functionality.
 * **Promotional Tools:** Utilize gift cards as part of promotional campaigns, driving sales and customer engagement.
 
+# Requirements:
+* Bagisto: v2.0.0
 
 
 
