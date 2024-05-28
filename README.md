@@ -16,7 +16,8 @@ The Bagisto gift card extension proves invaluable for customers seeking to redee
 # Requirements:
 * Bagisto: v2.0.0
 
-
+# Installation :
+Unzip the respective extension zip and then merge "packages" folder into project root directory
 
 
 
