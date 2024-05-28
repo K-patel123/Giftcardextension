@@ -19,5 +19,8 @@ The Bagisto gift card extension proves invaluable for customers seeking to redee
 # Installation :
 Unzip the respective extension zip and then merge "packages" folder into project root directory
 
+* Goto config/app.php file and add following line under 'providers'
 
+**Copy this command:**
+Webkul\Giftcard\Providers\GiftcardServiceProvider::class
 
