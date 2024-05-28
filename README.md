@@ -35,3 +35,16 @@ Webkul\Giftcard\Providers\GiftcardServiceProvider::class
 ```
 composer dump-autoload
 ```
+```
+php artisan migrate
+```
+```
+php artisan optimize:clear
+```
+
+* Run the below command and select the Giftcard Service provider from the selection :
+
+```
+php artisan vendor:publish --force
+```
+That's it, now just execute the project on your specified domain.
