@@ -48,7 +48,7 @@ php artisan optimize:clear
 php artisan vendor:publish --force
 ```
 
-* Add the below code in the CartResource File:
+* Add the below code in the CartResource File after the payment_method_title :
 
 ```
 $this->mergeWhen($this->giftcard_number, [
