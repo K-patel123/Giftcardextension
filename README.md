@@ -47,4 +47,14 @@ php artisan optimize:clear
 ```
 php artisan vendor:publish --force
 ```
+
+* Add the below code in the CartRsource File:
+
+```
+$this->mergeWhen($this->giftcard_number, [
+    'giftcard_number'           => $this->giftcard_number,
+    'giftcard_amount'           => $this->giftcard_amount,
+    'remaining_giftcard_amount' => $this->remaining_giftcard_amount,
+]),
+```
 That's it, now just execute the project on your specified domain.
