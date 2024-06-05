@@ -48,6 +48,7 @@ php artisan optimize:clear
 ```
 php artisan vendor:publish --force
 ```
+* Log into the Bagisto admin panel, locate the Paypal payment gateway section, enter the credentials, and start accepting payments.
 
 * Add the below code in the CartResource File after the payment_method_title :
 
