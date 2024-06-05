@@ -4,7 +4,7 @@ The Bagisto gift card extension proves invaluable for customers seeking to redee
 
 # Unlock Growth with Bagisto's Feature-Packed Gift Card Extension!
 
-* **Customizable Themes:** Tailor gift card designs to match various occasions like birthdays, holidays, and anniversaries.
+* **Customizable Themes:** Tailor gift card designs to match various occasions like birthdays, christmas, anniversaries, Etc.
 * **Email Sharing:**  Easily send gift card details via email, facilitating seamless gifting for special occasions.
 * **Flexible Redemption:** Allow customers to redeem gift cards during checkout, enhancing convenience and customer satisfaction.
 * **Personalized Messages:** Enable users to add personalized messages to gift cards, adding a thoughtful touch to each gift.
