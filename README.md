@@ -16,7 +16,7 @@ The Bagisto gift card extension proves invaluable for customers seeking to redee
 # Requirements:
 * Bagisto: v2.0.0
 * PHP: 8.1 or higher
-* Composer 2.6.3
+* Composer 2.6.3 or higher
 
 # Installation :
 Unzip the respective extension zip and then merge "packages" folder into project root directory
