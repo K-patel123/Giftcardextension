@@ -12,6 +12,7 @@ The Bagisto gift card extension proves invaluable for customers seeking to redee
 * **Expiration Management:** Set expiration dates for gift cards to encourage timely usage and prevent misuse.
 * **Integration Compatibility:** Seamlessly integrate with existing e-commerce platforms for smooth operation and enhanced functionality.
 * **Promotional Tools:** Utilize gift cards as part of promotional campaigns, driving sales and customer engagement.
+* **Language Bearier:** Extension will work in the language that currently bagisto have the 
 
 # Requirements:
 * Bagisto: v2.0.0
