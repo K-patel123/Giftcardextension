@@ -49,7 +49,7 @@ php artisan optimize:clear
 ```
 php artisan vendor:publish --force
 ```
-* Add the Paypal credentials in loadpaypalscipt method also Log into the Bagisto admin panel, locate the Paypal payment gateway section, enter the credentials, and start accepting payments.
+* Include the PayPal credentials in the loadPayPalScript method. Additionally, ensure that the credentials are entered in the PayPal payment gateway section within the Bagisto admin panel.
 
 * Add the below code in the CartResource File after the payment_method_title :
 
