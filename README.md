@@ -42,7 +42,7 @@ php artisan migrate
 php artisan optimize:clear
 ```
 
-* Run the below command and select the Giftcard Service provider from the selection :
+* Run the below command to seed the Attribute details :
 
 ```
 php artisan db:seed --class=Webkul\\SupplierInfo\\Database\\Seeders\\Attribute\\DatabaseSeeder
