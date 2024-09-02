@@ -12,7 +12,7 @@ Enhance your product pages with our Shipping and Supplier Info Extension for Bag
 * **Localization Support:** Compatible with multiple languages, ensuring that seller information is displayed accurately in the customer’s preferred language.
 
 # Requirements:
-* Bagisto: v2.0.0
+* Bagisto: v2.2.2
 * PHP: 8.1 or higher
 * Composer 2.6.3 or higher
 
