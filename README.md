@@ -6,8 +6,8 @@ Enhance your product pages with our Shipping and Supplier Info Extension for Bag
 
 * **Comprehensive Seller Information Display:** Show detailed seller information on product pages, including packer details, manufacturer details, importer details, and country of origin.
 * **Product Code Visibility:** Display product-specific codes for easy identification and reference by customers.
-* **Admin Panel Integration:** Admins can easily add and manage seller details directly from the Bagisto admin panel.
-* **Enhanced Transparency for Buyers:** Provide customers with in-depth information about the product’s origin, including the country of origin and other supplier-related details, fostering trust.
+* **Admin Panel Integration:** Admins can easily add and manage seller details directly from the admin panel.
+* **Enhanced Transparency for Buyers:** Provide customers with in-depth information about the product’s detail, including the country of origin and other supplier-related details, fostering trust.
 * **Seamless Frontend Integration:** Automatically display seller information on product pages without the need for additional configuration. User-friendly design ensures that the information is clearly visible and accessible to customers during their shopping experience.
 * **Localization Support:** Compatible with multiple languages, ensuring that seller information is displayed accurately in the customer’s preferred language.
 
