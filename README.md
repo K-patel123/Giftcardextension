@@ -22,7 +22,7 @@ Utilize Bagisto’s powerful content management capabilities to manage and updat
 * Composer 2.6.3 or higher
 
 # Installation :
-Unzip the respective extension zip and then merge "packages" folder into project root directory
+Unzip the respective extension zip and then merge extracted folder in the packages/Webkul folder
 
 * Goto config/app.php file and add following line under 'providers'
 
