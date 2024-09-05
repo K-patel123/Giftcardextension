@@ -47,13 +47,13 @@ php artisan optimize:clear
 * Run the below command to seed the seeders :
 
 ```
-php artisan db:seed --class=Webkul\\SupplierInfo\\Database\\Seeders\\Attribute\\DatabaseSeeder
+php artisan db:seed --class=Webkul\\ConvertStoreToWeb\\Database\\Seeders\\Attribute\\DatabaseSeeder
 ```
 ```
-php artisan db:seed --class=Webkul\\SupplierInfo\\Database\\Seeders\\Shop\\DatabaseSeeder
+php artisan db:seed --class=Webkul\\ConvertStoreToWeb\\Database\\Seeders\\Shop\\DatabaseSeeder
 ```
 ```
-php artisan db:seed --class=Webkul\\SupplierInfo\\Database\\Seeders\\CMS\\DatabaseSeeder
+php artisan db:seed --class=Webkul\\ConvertStoreToWeb\\Database\\Seeders\\CMS\\DatabaseSeeder
 ```
 
 That's it, now just execute the project on your specified domain.
