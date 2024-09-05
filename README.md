@@ -33,7 +33,7 @@ Webkul\ConvertStoreToWeb\Providers\ConvertStoreToWebServiceProvider::class,
 * Goto composer.json file and add following line under 'psr-4'
 
 ```
-"Webkul\\ConvertStoreToWeb\\": "packages/Webkul/ConvertStoreToWeb/src",
+"Webkul\\ConvertStoreToWeb\\": "packages/Webkul/ConvertStoreToWeb/src"
 ```
 * Run these below commands to complete the setup:
 
