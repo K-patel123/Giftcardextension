@@ -44,8 +44,7 @@ composer dump-autoload
 php artisan optimize:clear
 ```
 
-* Run the below command to seed the seeders :
-
+* Run the below command:
 ```
 php artisan db:seed --class=Webkul\\ConvertStoreToWeb\\Database\\Seeders\\Attribute\\DatabaseSeeder
 ```
@@ -55,5 +54,15 @@ php artisan db:seed --class=Webkul\\ConvertStoreToWeb\\Database\\Seeders\\Shop\\
 ```
 php artisan db:seed --class=Webkul\\ConvertStoreToWeb\\Database\\Seeders\\CMS\\DatabaseSeeder
 ```
+```
+composer require webbycrown/blog-for-bagisto:dev-main
+```
+```
+php artisan migrate
+```
+```
+php artisan vendor:publish --all
+```
+
 
 That's it, now just execute the project on your specified domain.
