@@ -27,7 +27,7 @@ Unzip the respective extension zip and then merge extracted folder in the packag
 * Goto config/app.php file and add following line under 'providers'
 
 ```
-"Webkul\ConvertStoreToWeb\Providers\ConvertStoreToWebServiceProvider::class",
+Webkul\ConvertStoreToWeb\Providers\ConvertStoreToWebServiceProvider::class,
 ```
 
 * Goto composer.json file and add following line under 'psr-4'
