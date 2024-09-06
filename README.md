@@ -5,12 +5,11 @@ Introducing the ConvertStoreToWeb extension for Bagisto:- A transformative solut
 # Unlock Growth with Bagisto's Feature-Packed ConvertStoreToWeb Extension!
 
 * **Seamless Conversion:** Effortlessly transition your existing e-commerce store into an informative website without losing valuable data or functionality.
-* **Customizable Footer Pages:** Easily configure and customize essential footer pages such as Services, Team, Our Story, Awards, and Portfolio. Tailor each page to highlight your business’s key information.
+* **Customizable Pages:** Easily configure and customize essential footer pages such as Services, Team, Our Story, Awards, BLog and Products. Tailor each page to highlight your business’s key information.
 * **Enhanced Content Management:** 
 Utilize Bagisto’s powerful content management capabilities to manage and update your business information efficiently.
 * **Admin Dashboard Integration:** Retain access to Bagisto’s robust admin dashboard, allowing you to manage content, view analytics, and maintain site settings with ease.
 * **Customizable Branding:** Adapt the look and feel of your website to match your brand’s identity with customizable themes and design options.
-* **Responsive and Mobile-Friendly:** Ensure your informative website looks great and functions smoothly on all devices, including desktops, tablets, and smartphones.
 * **SEO Optimization:** Enhance your site’s visibility with built-in SEO tools that help improve search engine rankings and attract more visitors.
 * **User-Friendly Navigation:** Provide a seamless browsing experience with intuitive navigation and easy access to important information.
 * **Multi-Language Support:** Offer your content in multiple languages to cater to a diverse audience, with support for various translation files.
