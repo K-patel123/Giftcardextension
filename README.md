@@ -43,10 +43,4 @@ composer dump-autoload
 php artisan optimize:clear
 ```
 
-* Run the below command:
-```
-php artisan vendor:publish --all
-```
-
-
 That's it, now just execute the project on your specified domain.
