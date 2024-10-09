@@ -1,19 +1,19 @@
 # Introduction:
 
-Introducing the ConvertStoreToWeb extension for Bagisto:- A transformative solution designed to seamlessly convert your e-commerce store into a fully functional informative business website. Whether you’re transitioning from an e-commerce focus to a more content-driven presence or simply seeking a fresh approach to your online business, this extension offers an effortless way to adapt your existing Bagisto store to a professional, informative website tailored for business owners.
+The PDF Catalog Generator for Bagisto extension enables store owners to easily generate professionally formatted PDF catalogs from their product listings. This feature is essential for businesses looking to share product information with customers in a clean, organized, and portable format, perfect for offline viewing, distribution, or print.
 
-# Unlock Growth with Bagisto's Feature-Packed ConvertStoreToWeb Extension!
+# Unlock Growth with Bagisto's Feature-Packed ProductPdfGenerate Extension!
 
-* **Seamless Conversion:** Effortlessly transition your existing e-commerce store into an informative website without losing valuable data or functionality.
-* **Customizable Pages:** Easily configure and customize essential footer pages such as Services, Team, Our Story, Awards, BLog and Products. Tailor each page to highlight your business’s key information.
-* **Enhanced Content Management:** 
-Utilize Bagisto’s powerful content management capabilities to manage and update your business information efficiently.
+* **Generate PDF Catalogs:** Instantly create downloadable PDF catalogs from your product listings.
+* **Product Information:** Include essential product details such as name, price, SKU, and images in the generated catalog.
+* **Feature Highlights:** 
+Highlight product features, price , SKU selling points directly in the catalog.
 * **Admin Dashboard Integration:** Retain access to Bagisto’s robust admin dashboard, allowing you to manage content, view analytics, and maintain site settings with ease.
-* **Customizable Branding:** Adapt the look and feel of your website to match your brand’s identity with customizable themes and design options.
-* **SEO Optimization:** Enhance your site’s visibility with built-in SEO tools that help improve search engine rankings and attract more visitors.
-* **User-Friendly Navigation:** Provide a seamless browsing experience with intuitive navigation and easy access to important information.
+* **Bulk Generation** Generate catalogs for a large number of products with a single click.
+* **Multi-language Support:**  Generate catalogs in multiple languages, adhering to Bagisto’s multi-language capabilities.
+* **Responsive Design:** Ensure your PDF catalog is responsive and can be viewed on a range of devices, from desktops to mobile.
 * **Multi-Language Support:** Offer your content in multiple languages to cater to a diverse audience, with support for various translation files.
-* **Secure and Reliable:** Benefit from the security and reliability of Bagisto’s platform, ensuring your website is safe and consistently operational.
+* **Downloadable:** Offer your customers a link to download the PDF catalog directly from your store.
 
 # Requirements:
 * Bagisto: v2.2.2
@@ -26,13 +26,13 @@ Unzip the respective extension zip and then merge extracted folder in the packag
 * Goto config/app.php file and add following line under 'providers'
 
 ```
-Webkul\ConvertStoreToWeb\Providers\ConvertStoreToWebServiceProvider::class,
+Webkul\ProductPdfGenerate\Providers\ProductPdfGenerateServiceProvider::class,
 ```
 
 * Goto composer.json file and add following line under 'psr-4'
 
 ```
-"Webkul\\ConvertStoreToWeb\\": "packages/Webkul/ConvertStoreToWeb/src"
+"Webkul\\ProductPdfGenerate\\": "packages/Webkul/ProductPdfGenerate/src"
 ```
 * Run these below commands to complete the setup:
 
@@ -44,21 +44,6 @@ php artisan optimize:clear
 ```
 
 * Run the below command:
-```
-php artisan db:seed --class=Webkul\\ConvertStoreToWeb\\Database\\Seeders\\Attribute\\DatabaseSeeder
-```
-```
-php artisan db:seed --class=Webkul\\ConvertStoreToWeb\\Database\\Seeders\\Shop\\DatabaseSeeder
-```
-```
-php artisan db:seed --class=Webkul\\ConvertStoreToWeb\\Database\\Seeders\\CMS\\DatabaseSeeder
-```
-```
-composer require webbycrown/blog-for-bagisto:dev-main
-```
-```
-php artisan migrate
-```
 ```
 php artisan vendor:publish --all
 ```
